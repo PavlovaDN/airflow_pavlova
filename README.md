@@ -52,5 +52,6 @@ docker compose up -d
 ```
 
 Дальше на сайте airflow были выполнены оба DAG-файла (для основного задания и дополнительного). Скриншоты ниже:
-![Alt Text](скриншот_для_1%20задания.png/скриншот_для_1 задания.png)
-![Alt Text](скриншот_для_доп_задания.png/скриншот_для_доп задания.png)
+![Alt Text](C:\Users\admin\Desktop\DS\git\mipt\data_engineering\hw2\hw2\airflow_pavlova\скриншот_для_1 задания.png)
+
+![Alt Text](C:\Users\admin\Desktop\DS\git\mipt\data_engineering\hw2\hw2\airflow_pavlova\скриншот_для_доп_задания.png)
