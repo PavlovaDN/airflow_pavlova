@@ -52,6 +52,6 @@ docker compose up -d
 ```
 
 Дальше на сайте airflow были выполнены оба DAG-файла (для основного задания и дополнительного). Скриншоты ниже:
-![Alt Text](C:\Users\admin\Desktop\DS\git\mipt\data_engineering\hw2\hw2\airflow_pavlova\скриншот_для_1 задания.png)
+![Alt Text] (https://github.com/PavlovaDN/airflow_pavlova/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82_%D0%B4%D0%BB%D1%8F_1%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F.png)
 
-![Alt Text](C:\Users\admin\Desktop\DS\git\mipt\data_engineering\hw2\hw2\airflow_pavlova\скриншот_для_доп_задания.png)
+![Alt Text](https://github.com/PavlovaDN/airflow_pavlova/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%BE%D0%BF_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F.png)
